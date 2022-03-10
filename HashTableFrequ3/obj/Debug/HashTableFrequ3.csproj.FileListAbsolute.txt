@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\HashTableFrequ3\bin\Debug\HashTableFrequ3.exe.config
+C:\Users\ADMIN\source\repos\HashTableFrequ3\bin\Debug\HashTableFrequ3.exe
+C:\Users\ADMIN\source\repos\HashTableFrequ3\bin\Debug\HashTableFrequ3.pdb
+C:\Users\ADMIN\source\repos\HashTableFrequ3\obj\Debug\HashTableFrequ3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\HashTableFrequ3\obj\Debug\HashTableFrequ3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\HashTableFrequ3\obj\Debug\HashTableFrequ3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\HashTableFrequ3\obj\Debug\HashTableFrequ3.exe
+C:\Users\ADMIN\source\repos\HashTableFrequ3\obj\Debug\HashTableFrequ3.pdb
