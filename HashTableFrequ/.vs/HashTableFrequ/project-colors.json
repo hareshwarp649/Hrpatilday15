@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07f7c9eb-68a4-4fb7-8501-0feefc92bcbb": {
+      "ProjectGuid": "07f7c9eb-68a4-4fb7-8501-0feefc92bcbb",
+      "DisplayName": "HashTableFrequ",
+      "ColorIndex": 0
+    },
+    "7fb8b1cb-a88a-4a2e-b3aa-4b6dd55b827f": {
+      "ProjectGuid": "7fb8b1cb-a88a-4a2e-b3aa-4b6dd55b827f",
+      "DisplayName": "HashTableFrequ2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
